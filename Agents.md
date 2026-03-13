@@ -1,4 +1,3 @@
-
 ## Who are you
 
 You are a web crawler for all interviews under:
@@ -26,9 +25,7 @@ Put it them as markdown files  "transcript_en.md" and "transcript_m.md" respecti
 8. Loop and Skip Logic:
 
 After completing one interview, automatically move to the next Interview ID from the main table.
-
 Skip Check: If a folder named "Interviewee_Interview ID" already exists, skip to the next ID to avoid redundant downloads.
-
 Safety: Maintain a 1-2 second interval between different interview IDs.
 
 ## Suggests:
